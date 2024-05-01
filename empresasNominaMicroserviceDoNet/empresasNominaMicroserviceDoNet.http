@@ -1,0 +1,6 @@
+@empresasNominaMicroserviceDoNet_HostAddress = http://localhost:5177
+
+GET {{empresasNominaMicroserviceDoNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
